@@ -1,0 +1,4 @@
+﻿pandas
+numpy
+app_store_scraper
+google-play-scraper
