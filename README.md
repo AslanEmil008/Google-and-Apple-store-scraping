@@ -8,8 +8,8 @@ This repository contains two codes that retrieve data from the Google Play Store
 **1.** Clone the Repository
 
 ```bash
-git clone https://github.com/AslanEmil008/Large-Scale-Data-Scraping.git
-cd Large-Scale-Data-Scraping.git
+git clone https://github.com/AslanEmil008/Google-and-Apple-store-scraping.git
+cd Google-and-Apple-store-scraping
 ```
 **2.** Then install requirments.txt
 ```bash
